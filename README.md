@@ -1,9 +1,8 @@
-# FUTURE_DS_03
 # Student Event Feedback Analysis
 
 ## 📌 Overview
 This project analyzes student event feedback to uncover satisfaction trends and suggest improvements.  
-It uses survey data (numeric ratings and optional text feedback) to generate insights through data cleaning, sentiment analysis, and visualization.
+It uses survey data (numeric ratings) to generate insights through data cleaning, sentiment analysis, and visualization.
 
 ## 🛠️ Tools & Libraries
 - **Google Colab** – interactive environment
